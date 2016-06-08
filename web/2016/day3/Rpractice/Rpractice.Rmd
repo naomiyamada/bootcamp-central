@@ -1,0 +1,19 @@
+---
+title: "Rpractice"
+author: "Naomi Yamada
+nuy11@psu.edu"
+date: "June 8, 2016"
+output: html_document
+---
+
+The sine of $\pi/2$ is `r round(sin(pi/2),)`
+
+Lets write some code to generate random normals and draw a histogram.
+
+```{r Normal, }
+
+```
+
+```{r sessionInformation}
+sessionInfo()
+```
